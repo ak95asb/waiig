@@ -1,2 +1,2 @@
 # waiig
-The code i wrote while reading the book Write an interpreter in GO
+The code i wrote while reading the book Writing an interpreter in GO
